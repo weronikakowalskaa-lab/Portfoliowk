@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import profilePhoto from "figma:asset/3714217a2cfbbca58ca74c5e16448ba004246185.png";
+import profilePhoto from "../../assets/3714217a2cfbbca58ca74c5e16448ba004246185.png";
 
 export function AboutSection() {
   return (

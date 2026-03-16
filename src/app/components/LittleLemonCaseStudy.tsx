@@ -4,14 +4,14 @@ import { ArrowLeft, ArrowRight, Clock, User, Wrench } from "lucide-react";
 import { projects } from "../data/projects";
 
 // Figma assets — wireframes (lo-fi)
-import wireframeStep1 from "figma:asset/378359cf1e83f1dc06afd0a0ad28eec57ca8c7f7.png";
-import wireframeStep2 from "figma:asset/72af8507f150fede5a30d8c1a2afb300757d465d.png";
+import wireframeStep1 from "../../assets/378359cf1e83f1dc06afd0a0ad28eec57ca8c7f7.png";
+import wireframeStep2 from "../../assets/72af8507f150fede5a30d8c1a2afb300757d465d.png";
 
 // Figma assets — hi-fi screens
-import hifiStep1 from "figma:asset/32777d74e30209cf1caaf0c4bb31be28d6e9e94d.png";
-import hifiStep2 from "figma:asset/1577bcde9a93e4b7ea3f5273474e7e6ffdb127ff.png";
-import hifiTableMap from "figma:asset/2528dd54d71925062846acd8ef3c0d2c323a29f4.png";
-import hifiConfirmation from "figma:asset/55b8605ba322134c6c4495418eb6db9085d7738d.png";
+import hifiStep1 from "../../assets/32777d74e30209cf1caaf0c4bb31be28d6e9e94d.png";
+import hifiStep2 from "../../assets/1577bcde9a93e4b7ea3f5273474e7e6ffdb127ff.png";
+import hifiTableMap from "../../assets/2528dd54d71925062846acd8ef3c0d2c323a29f4.png";
+import hifiConfirmation from "../../assets/55b8605ba322134c6c4495418eb6db9085d7738d.png";
 
 function SectionLabel({ children }: { children: React.ReactNode }) {
   return (

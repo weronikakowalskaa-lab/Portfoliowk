@@ -4,14 +4,14 @@ import { ArrowLeft, ArrowRight, Clock, User, Wrench } from "lucide-react";
 import { projects } from "../data/projects";
 
 // Figma assets
-import empathyMap from "figma:asset/c0fb9864bab8bfef77a2c529755c7a6cc5a55dff.png";
-import calendarScreen from "figma:asset/f5dff4c0526b20f42eaee5cb5a23320a2c95cbc2.png";
-import homeScreen from "figma:asset/f47dee5286a50ec2079d6698790c2128abea1ef0.png";
-import healthScreen from "figma:asset/3cce833ab7555775c9bf36426a5fe9e505886ddb.png";
-import journeyMap from "figma:asset/80a9b1eeaa27f7c97906eb5ddd2d2e418dd0413b.png";
-import personaAnna from "figma:asset/47d2fff28822c0f68ab5067ad0b5e7fe36390c71.png";
-import profileScreen from "figma:asset/104d683012c31a1b715589b8581bb5d4cad61904.png";
-import messagesScreen from "figma:asset/a62e64cbbde4e8f2d421225cca7717f6d3537442.png";
+import empathyMap from "../../assets/c0fb9864bab8bfef77a2c529755c7a6cc5a55dff.png";
+import calendarScreen from "../../assets/f5dff4c0526b20f42eaee5cb5a23320a2c95cbc2.png";
+import homeScreen from "../../assets/f47dee5286a50ec2079d6698790c2128abea1ef0.png";
+import healthScreen from "../../assets/3cce833ab7555775c9bf36426a5fe9e505886ddb.png";
+import journeyMap from "../../assets/80a9b1eeaa27f7c97906eb5ddd2d2e418dd0413b.png";
+import personaAnna from "../../assets/47d2fff28822c0f68ab5067ad0b5e7fe36390c71.png";
+import profileScreen from "../../assets/104d683012c31a1b715589b8581bb5d4cad61904.png";
+import messagesScreen from "../../assets/a62e64cbbde4e8f2d421225cca7717f6d3537442.png";
 
 import { SurveySegmentation, SurveyCharts, InterviewTranscript } from "./SurveyVisualizations";
 

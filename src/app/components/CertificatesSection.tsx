@@ -1,9 +1,9 @@
 import { motion, AnimatePresence } from "motion/react";
 import { Award, X, ZoomIn } from "lucide-react";
 import { useState } from "react";
-import certUdemy from "figma:asset/455e5ec50c297a2d85d423df128a03becb222c81.png";
-import certCoursera from "figma:asset/9e9441ae2a2d69c2b7cb29175ecaa1dc08694cf5.png";
-import certMeta from "figma:asset/9f636c19c05f0ff42fe5d3cfd55749c8d9b3a427.png";
+import certUdemy from "../../assets/455e5ec50c297a2d85d423df128a03becb222c81.png";
+import certCoursera from "../../assets/9e9441ae2a2d69c2b7cb29175ecaa1dc08694cf5.png";
+import certMeta from "../../assets/9f636c19c05f0ff42fe5d3cfd55749c8d9b3a427.png";
 
 const certificates = [
   {
