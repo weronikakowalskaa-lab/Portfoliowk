@@ -1,5 +1,5 @@
 
-  # Modern UX/UI Portfolio Landing Page
+  # Weronika Kowalska
 
   This is a code bundle for Modern UX/UI Portfolio Landing Page. The original project is available at https://www.figma.com/design/oAHobmcEvQ0ZIyVvRyaLoV/Modern-UX-UI-Portfolio-Landing-Page.
 
