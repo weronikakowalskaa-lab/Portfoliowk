@@ -53,7 +53,7 @@ export function HeroSection() {
                   <span key={skill} className="flex items-center gap-4">
                     <span className="text-[15px]">{skill}</span>
                     {i < arr.length - 1 && (
-                      <span className="text-[#E84C8B]/60 text-xs">‚-è</span>
+                      <span className="text-[#E84C8B]/60 text-xs">?</span>
                     )}
                   </span>
                 )
@@ -165,6 +165,7 @@ export function HeroSection() {
     </section>
   );
 }
+
 
 
 
