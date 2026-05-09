@@ -533,3 +533,4 @@ export function InterviewTranscript() {
     </motion.div>
   );
 }
+
